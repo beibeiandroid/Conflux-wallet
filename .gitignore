@@ -41,7 +41,7 @@ captures/
 .idea/libraries
 .idea/caches/*
 .idea/modules.xml
-.idea/inspectionProfiles
+.idea/inspectionProfiles/*
 
 # Keystore files
 *.jks
